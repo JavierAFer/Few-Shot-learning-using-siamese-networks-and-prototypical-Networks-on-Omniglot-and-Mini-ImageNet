@@ -1,1 +1,1 @@
-Para los códigos de Omniglot no es necesario descargar localmente los dados. Sin embargo para Mini-ImageNet se ha creado una carpeta con los archivos comprimidos necesarios. Lo único necesario es tenerlos en el mismo directorio a la hora de ejecutar los códigos.
+Para los códigos de Omniglot no es necesario descargar localmente los datos. Sin embargo para Mini-ImageNet se ha creado una carpeta con los archivos comprimidos necesarios. Lo único necesario es tenerlos en el mismo directorio a la hora de ejecutar los códigos.
